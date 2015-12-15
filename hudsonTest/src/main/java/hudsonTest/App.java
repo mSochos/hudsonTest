@@ -8,5 +8,4 @@ public class App {
 		celc = Fahreneit.convertFahrToCelcius(fahr);
 		System.out.println("Result:"+fahr+" Fahreneit are "+celc+" celcius");
 	}
-
 }
